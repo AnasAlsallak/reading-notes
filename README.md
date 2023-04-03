@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-- [Code 401 - Advanced Software Development](#code401-advanced-software-development)
-- [Reading Table](#reading-material-table)
+- [Code 401 - Advanced Software Development](#code-401---advanced-software-development)
+- [Reading Table](#reading-material)
 
 This is where I can keep track of my observations and questions from the reading assignments throughout my **Python** 🐍 course.
 
