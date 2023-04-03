@@ -2,11 +2,9 @@
 
 ## Table of Contents
 
+- [Description](#description)
 - [Code 401 - Advanced Software Development](#code-401---advanced-software-development)
 - [Reading Table](#reading-material)
-- [Description](#description)
-
-</br>
 
 ## Description
 
@@ -24,10 +22,6 @@ ___
 | ----------- | ----------- |
 | Class 01     | [Class 01](./Class01.md) |
 
-</br>
-
 > **Note:** This main page will be updated accordingly.
-
-</br></br>
 
 [Move to Class 01](./Class01.md)
