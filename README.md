@@ -4,6 +4,11 @@
 
 - [Code 401 - Advanced Software Development](#code-401---advanced-software-development)
 - [Reading Table](#reading-material)
+- [Description](#description)
+
+</br>
+
+## Description
 
 This is where I can keep track of my observations and questions from the reading assignments throughout my **Python** 🐍 course.
 
@@ -19,8 +24,10 @@ ___
 | ----------- | ----------- |
 | Class 01     | [Class 01](./Class01.md) |
 
+</br>
+
 > **Note:** This main page will be updated accordingly.
 
-</br></br></br></br>
+</br></br>
 
 [Move to Class 01](./Class01.md)
