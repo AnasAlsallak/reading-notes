@@ -1,0 +1,7 @@
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QO(N²): 4.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QO(2^N): 5.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QO(N²): this algorithm takes different time/space each time depending directly on the size of the input.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QO(N²): this algorithm takes different time/space each time depending directly on the square size of the input.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QO(2^N): this algorithm takes different time/space each time depending directly on the square size of the input.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QO(2^N): this algorithm takes different time/space each time depending exponentially and directly on the size of the input.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QO(2^N): this algorithm takes different time/space each time depending exponentially and directly on the size of the input doubling with each change.\\E$"}

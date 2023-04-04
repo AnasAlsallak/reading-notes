@@ -21,6 +21,7 @@ ___
 | Class #      | Link |
 | ----------- | ----------- |
 | Class 01     | [Class 01](./Class01.md) |
+| Class 02     | [Class 02](./Class02.md) |
 
 > **Note:** This main page will be updated accordingly.
 
