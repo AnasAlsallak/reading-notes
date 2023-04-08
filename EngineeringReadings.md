@@ -1,3 +1,3 @@
 # Engineering Readings
 
-[Move to Class 03](./SQLPractice.md) | [Previous](./Class03.md)
+[Move to Class 03](./Class03.md) | [Previous](./DataStructuresAndAlgorithms.md)
