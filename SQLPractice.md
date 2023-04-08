@@ -1,6 +1,9 @@
 # SQL Practice (Ultimate Guide)
 
-    SQL is a language used to query and manipulate data from a relational database. A relational database is made up of related tables that contain fixed named columns and rows of data. SQL is useful for answering specific questions about data, such as "What types of vehicles have less than four wheels on the road?" or "How many models of cars does Tesla produce?" This information can help us make better decisions in the future.
+    SQL is a language used to query and manipulate data from a relational database. 
+    A relational database is made up of related tables that contain fixed named columns and rows of data. 
+    SQL is useful for answering specific questions about data, such as "What types of vehicles have less than four wheels on the road?" 
+    or "How many models of cars does Tesla produce?" This information can help us make better decisions in the future.
 
     Although SQL languages all share a basic structure, some of the specific
     commands and styles can differ slightly. Popular dialects include MySQL,
