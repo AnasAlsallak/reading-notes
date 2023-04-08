@@ -16,3 +16,5 @@
 {"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QTo create a package, you need to create a directory that contains an empty file named init.py.\\E$"}
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThe article covers advanced topics such as relative imports, namespace packages, and distribution of packages using PyPI.\\E$"}
 {"rule":"A_NNS","sentence":"^\\QIntroduction to Recursion – Data Structure and Algorithm Tutorials\nPython Modules and Packages: An Introduction\nThings I want to know more about\\E$"}
+{"rule":"PHRASE_REPETITION","sentence":"^\\QClass 01 Class 01\nClass 02 Class 02\nSQL Practice SQL Practice\nThe Growth Mindset The Growth Mindset\\E$"}
+{"rule":"PHRASE_REPETITION","sentence":"^\\QClass 01 Class 01\nClass 02 Class 02\nSQL Practice SQL Practice\nThe Growth Mindset The Growth Mindset\nPractice in the Terminal Practice in the Terminal\nData Structures and Algorithms Data Structures and Algorithms\nEngineering Readings Engineering Readings\\E$"}
