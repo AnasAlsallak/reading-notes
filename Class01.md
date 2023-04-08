@@ -1,7 +1,7 @@
 # Table of Contents
 
-- [Pain vs. Suffering](#pain-vs.-suffering)
-- [A beginner's guide to Big O Notation](#a-beginner's-guide-to-big-o-notation)
+- [Pain vs. Suffering](#pain-vs-suffering)
+- [A beginner's guide to Big O Notation](#a-beginners-guide-to-big-o-notation)
 - [Python Names and Values](#python-names-and-values)
 - [Things I want to know more about](#things-i-want-to-know-more-about)
 
@@ -24,7 +24,7 @@ ___
 
 ## ***A beginner's guide to Big O Notation***
 
-The **Big O Notation** describes the complexity or performance of an algorithm in terms of the worst case senario to estimate <u>time taken</u> or <u>space used</u> for the machine to execute.
+The **Big O Notation** describes the complexity or performance of an algorithm in terms of the worst case senario to estimate *time taken* or *space used* for the machine to execute.
 
 How can we use Big O?
 
@@ -47,24 +47,18 @@ The idea is that the syntax to Python doesn't work just like any other language 
 
 - How assignment works: x is assigned a value of 23
 
-```
-x =23
-```
+        x =23
 
 - Re-assignment happens independently: here y is still 23 despite x changing its value to 12
 
-```
-x =23
-y = x
-x =12
-```
+        x =23
+        y = x
+        x =12
 
 - Assignments never copies data: here both nums and others are pointing at the same list, not copying it
 
-```
-nums =[1,2,3]
-other = nums
-```
+        nums =[1,2,3]
+        other = nums
 
 - Lots of things are references, like objects attributes, list elements, dictionary values, basically anything to the left of an assignment.
 

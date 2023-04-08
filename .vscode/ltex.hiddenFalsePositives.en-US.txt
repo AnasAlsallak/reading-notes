@@ -5,3 +5,14 @@
 {"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QO(2^N): this algorithm takes different time/space each time depending directly on the square size of the input.\\E$"}
 {"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QO(2^N): this algorithm takes different time/space each time depending exponentially and directly on the size of the input.\\E$"}
 {"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QO(2^N): this algorithm takes different time/space each time depending exponentially and directly on the size of the input doubling with each change.\\E$"}
+{"rule":"PHRASE_REPETITION","sentence":"^\\QClass 01 Class 01\nClass 02 Class 02\nSQL Practice SQL Practice\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QEx1 Ex2 Ex3 Ex4 Ex5 Ex6 Ex7 Ex8 Ex9 Ex10 Ex11 Ex12 Ex13 Ex14 Ex15 Ex16 Ex17 Ex18 Exfs\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QUsing Subqueries: A subquery is a query within another query, which allows us to retrieve data based on values from another table or from the same table.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QMulti-table queries with JOINs allow us to combine data from multiple tables in a single result set.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThere are different types of JOINs in SQL, including INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL OUTER JOIN.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qps: operator like (IN).\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThe \"Introduction to Recursion – Data Structure and Algorithm Tutorials\" article from \"GeeksforGeeks\" provides an introduction to the concept of recursion in computer programming.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThe \"Introduction to Recursion – Data Structure and Algorithm Tutorials\" article from \"GeeksforGeeks\" provides a helpful introduction to recursion in Python, including examples of recursive functions and best practices for writing recursive code.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QTo create a package, you need to create a directory that contains an empty file named init.py.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThe article covers advanced topics such as relative imports, namespace packages, and distribution of packages using PyPI.\\E$"}
+{"rule":"A_NNS","sentence":"^\\QIntroduction to Recursion – Data Structure and Algorithm Tutorials\nPython Modules and Packages: An Introduction\nThings I want to know more about\\E$"}
