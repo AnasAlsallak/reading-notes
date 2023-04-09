@@ -7,7 +7,7 @@
 
 ## ***Pain vs. Suffering***
 
-No pain No gain, this article talks about That nature of this courses learning environment which is concentrated but also is great to reach our goals, but it does come at a price that is felt in all levels; physically, mentally, and emotionally for us.
+No pain No gain, this article talks about The nature of this courses learning environment which is concentrated but also is great to reach our goals, but it does come at a price that is felt in all levels; physically, mentally, and emotionally for us.
 
 When necessary discomfort comes from it reaching goals and growing to adapt and learn it's called **pain** and the relation between them are proportionally whereas when there is no value from it that is **suffering**; it's a big difference.
 
