@@ -15,6 +15,7 @@
 - [Compression](#compression)
 - [Networking](#networking)
 - [SSH](#ssh)
+- [Things I want to know more about](#things-i-want-to-know-more-about)
 
 ## What is the Command Line?
 

@@ -8,6 +8,7 @@
 - [Alain de Botton on Redefining Success](#alain-de-botton-on-redefining-success)
 - [your emotional intelligence](#your-emotional-intelligence)
 - [your biases](#your-biases)
+- [Things I want to know more about](#things-i-want-to-know-more-about)
 
 ## Upgrade Your Technical Skills with Deliberate Practice
 

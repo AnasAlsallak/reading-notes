@@ -7,6 +7,7 @@
 - [Solving Problems](#solving-problems)
 - [The 5 Whys](#the-5-whys)
 - [The Super Mario Effect](#the-super-mario-effect)
+- [Things I want to know more about](#things-i-want-to-know-more-about)
 
 ## Act like you make $1000/hr
 

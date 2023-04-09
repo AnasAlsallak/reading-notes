@@ -6,6 +6,7 @@
 - [Data Structures in 15 Minutes](#data-structures-in-15-minutes)
 - [Big O Explained](#big-o-explained)
 - [Basic Data Structures](#basic-data-structures)
+- [Things I want to know more about](#things-i-want-to-know-more-about)
 
 ## Basic Recursion
 
