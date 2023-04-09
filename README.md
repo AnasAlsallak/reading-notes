@@ -28,8 +28,6 @@ ___
 | Data Structures and Algorithms | [Data Structures and Algorithms](./DataStructuresAndAlgorithms.md) |
 | Engineering Readings | [Engineering Readings](./EngineeringReadings.md) |
 
-
-
 > **Note:** This main page will be updated accordingly.
 
 [Move to Class 01](./Class01.md)
