@@ -94,4 +94,6 @@ Finally, this section covers SSH and how to use it to securely connect to remote
 
 Overall, the Bash Command Line Tutorials on ryanstutorials.net provide a comprehensive introduction to the command line and cover a wide range of topics, from basic navigation and file manipulation to more advanced topics such as shell scripting and network troubleshooting. The tutorials are well-written and easy to follow, making them a great resource for anyone looking to improve their command line skills.
 
+## Things I want to know more about
+
 [Move to Data Structures and Algorithms](./DataStructuresAndAlgorithms.md) | [Previous](./TheGrowthMindset.md)

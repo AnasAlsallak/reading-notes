@@ -102,4 +102,6 @@ Finally, the article covers graphs, which are used to represent relationships be
 
 The article concludes by emphasizing the importance of understanding data structures in programming and providing resources for further learning.
 
+## Things I want to know more about
+
 [Move to Engineering Readings](./EngineeringReadings.md) | [Previous](./PracticeInTheTerminal.md)

@@ -308,4 +308,6 @@ ps: note that dropping a table will permanently delete all data stored within it
 
 ![Exfs](./assets/fs.JPG "exfssol")
 
+## Things I want to know more about
+
 [Move to The Growth Mindset](./TheGrowthMindset.md) | [Previous](./Class02.md)

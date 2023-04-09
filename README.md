@@ -27,6 +27,7 @@ ___
 | Practice in the Terminal | [Practice in the Terminal](./PracticeInTheTerminal.md) |
 | Data Structures and Algorithms | [Data Structures and Algorithms](./DataStructuresAndAlgorithms.md) |
 | Engineering Readings | [Engineering Readings](./EngineeringReadings.md) |
+| Class 03     | [Class 03](./Class03.md) |
 
 > **Note:** This main page will be updated accordingly.
 

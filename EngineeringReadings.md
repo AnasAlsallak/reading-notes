@@ -74,4 +74,9 @@ Rober suggests that we can apply the Super Mario Effect to real-life learning by
 
 As an IT student, it's important to apply the Super Mario Effect to your learning process. By setting clear goals for yourself, breaking down complex topics into smaller parts, and celebrating your progress along the way, you can overcome obstacles and learn more effectively. Additionally, by seeking out challenges and embracing failure as an opportunity to learn, you can become a more resilient and successful IT professional.
 
+What’s the one thing I bring to this career (and a potential employer) that nobody else can?
+What are 3 things I’ll start doing to “un-stick” myself whenever I get stuck on tough piece of code, logic, or feature?
+
+## Things I want to know more about
+
 [Move to Class 03](./Class03.md) | [Previous](./DataStructuresAndAlgorithms.md)
