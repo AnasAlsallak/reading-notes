@@ -28,6 +28,7 @@ ___
 | Data Structures and Algorithms | [Data Structures and Algorithms](./DataStructuresAndAlgorithms.md) |
 | Engineering Readings | [Engineering Readings](./EngineeringReadings.md) |
 | Class 03     | [Class 03](./Class03.md) |
+| Class 04     | [Class 04](./Class04.md) |
 
 > **Note:** This main page will be updated accordingly.
 

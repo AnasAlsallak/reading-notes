@@ -1,4 +1,6 @@
-# Table of Contents
+# Read: Class 01
+
+## Table of Contents
 
 - [Pain vs. Suffering](#pain-vs-suffering)
 - [A beginner's guide to Big O Notation](#a-beginners-guide-to-big-o-notation)

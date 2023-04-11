@@ -1,4 +1,6 @@
-# Table of Contents
+# Read: Class 02
+
+## Table of Contents
 
 - [In Tests We Trust — TDD with Python](#in-tests-we-trust--tdd-with-python)
 - [What does the if __name__ == “__main__”: do?](#second-topic)
