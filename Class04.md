@@ -47,4 +47,4 @@ In conclusion, pytest fixtures and code coverage are powerful tools that can hel
 
 ## Things I want to know more about
 
-[Move Class 05](./Class05.md) | [Previous](./Class04.md)
+[Move Class 05](./Class05.md) | [Previous](./Class03.md)
