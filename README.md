@@ -29,6 +29,10 @@ ___
 | Engineering Readings | [Engineering Readings](./EngineeringReadings.md) |
 | Class 03     | [Class 03](./Class03.md) |
 | Class 04     | [Class 04](./Class04.md) |
+| Class 05     | [Class 05](./Class05.md) |
+| Class 06     | [Class 06](./Class06.md) |
+| Class 07     | [Class 07](./Class07.md) |
+| Class 08     | [Class 08](./Class08.md) |
 
 > **Note:** This main page will be updated accordingly.
 

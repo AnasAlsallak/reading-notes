@@ -6,6 +6,7 @@
 - [Linked Lists](#linked-lists)
 - [What’s a Linked List, Anyway? [Part 1]](#whats-a-linked-list-anyway-part-1)
 - [What’s a Linked List, Anyway? [Part 2]](#whats-a-linked-list-anyway-part-1)
+- [Things I want to know more about](#things-i-want-to-know-more-about)
 
 ## Big O: Analysis of Algorithm Efficiency
 
@@ -110,5 +111,7 @@ In the second part of the article, the author delves deeper into the implementat
 In the article, the author provides clear examples and analogies to help explain the implementation and use of linked lists in various data structures. Additionally, the author uses simple language and clear, concise explanations to make the information accessible to learners of all levels.
 
 Overall, the article provides a detailed explanation of the implementation and use of linked lists, including their advantages, disadvantages, and performance characteristics.
+
+## Things I want to know more about
 
 [Move Class 06](./Class06.md) | [Previous](./Class04.md)
