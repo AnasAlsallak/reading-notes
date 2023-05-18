@@ -33,13 +33,13 @@ ___
 | Class 06     | [Class 06](./Class06.md) |
 | Class 07     | [Class 07](./Class07.md) |
 | Class 08     | [Class 08](./Class08.md) |
-| Class 09     | [Class 08](./Class09.md) |
-| Class 10     | [Class 08](./Class10.md) |
-| Class 11     | [Class 08](./Class11.md) |
-| Class 12     | [Class 08](./Class12.md) |
-| Class 13     | [Class 08](./Class13.md) |
-| Class 14     | [Class 08](./Class14.md) |
-| Class 15     | [Class 08](./Class15.md) |
+| Class 09     | [Class 09](./Class09.md) |
+| Class 10     | [Class 10](./Class10.md) |
+| Class 11     | [Class 11](./Class11.md) |
+| Class 12     | [Class 12](./Class12.md) |
+| Class 13     | [Class 13](./Class13.md) |
+| Class 14     | [Class 14](./Class14.md) |
+| Class 15     | [Class 15](./Class15.md) |
 
 
 > **Note:** This main page will be updated accordingly.
