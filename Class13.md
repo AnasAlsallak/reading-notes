@@ -59,4 +59,4 @@ In summary, splitting the dataset into train and test sets allows us to evaluate
 
 ## Things I want to know more about
 
-[Move Class 09](./Class09.md) | [Previous](./Class07.md)
+[Move Class 14](./Class14.md) | [Previous](./Class12.md)

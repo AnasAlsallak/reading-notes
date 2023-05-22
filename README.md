@@ -40,7 +40,9 @@ ___
 | Class 13     | [Class 13](./Class13.md) |
 | Class 14     | [Class 14](./Class14.md) |
 | Class 15     | [Class 15](./Class15.md) |
-
+| Class 16     | [Class 16](./Class16.md) |
+| Class 17     | [Class 17](./Class17.md) |
+| Class 18     | [Class 18](./Class18.md) |
 
 > **Note:** This main page will be updated accordingly.
 

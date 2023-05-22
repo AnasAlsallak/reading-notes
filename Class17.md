@@ -59,4 +59,4 @@ By leveraging the Seaborn Cheat Sheet, Python developers can save time and effor
 
 ## Things I want to know more about
 
-[Move Class 15](./Class15.md) | [Previous](./Class13.md)
+[Move Class 15](./Class17.md) | [Previous](./Class15.md)
