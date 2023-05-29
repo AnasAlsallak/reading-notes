@@ -2,61 +2,163 @@
 
 ## Table of Contents
 
-- [Comparing Matplotlib, Seaborn, and Bokeh](#comparing-matplotlib-seaborn-and-bokeh)
+- [Regular expressions in python](#Regular expressions in python)
 - [Main functions in the Seaborn library](#main-functions-in-the-seaborn-library)
 - [Seaborn Cheat Sheet](#seaborn-cheat-sheet)
 - [Things I want to know more about](#things-i-want-to-know-more-about)
 
-## Comparing Matplotlib Seaborn and Bokeh
+## Regular expressions in python
 
-The topic of comparing Matplotlib, Seaborn, and Bokeh libraries is important in the field of data science as it relates to data visualization, a crucial aspect of data analysis and communication. Each library offers unique features and capabilities, making them suitable for different use cases.
+Studying automation in Python is crucial for individuals seeking to streamline processes, increase productivity, and reduce manual effort. Python's extensive libraries and tools provide powerful capabilities for automating tasks, making it a popular choice for automation projects across various domains.
 
-Matplotlib is a widely used plotting library that provides a comprehensive set of functionalities for creating static, publication-quality visualizations. It offers a low-level interface for detailed customization and control over plot elements. Matplotlib is well-suited for creating basic plots, such as line plots, scatter plots, bar plots, histograms, and heatmaps. An example of a specific visualization that is more suitable for Matplotlib is a line plot showing the trend of stock prices over time.
+Regular expressions are an essential tool for pattern matching and text manipulation in Python. They enable developers to search for specific patterns within strings, extract information, and perform complex text processing operations. Understanding how to use regular expressions in Python is valuable for automating tasks that involve data parsing, validation, extraction, or transformation.
 
-Seaborn, on the other hand, is a higher-level statistical data visualization library built on top of Matplotlib. It offers a simplified API and focuses on producing aesthetically pleasing and informative visualizations. Seaborn provides a wide range of statistical plotting functions that are particularly useful for exploring and analyzing relationships between variables. It excels in creating complex statistical visualizations, such as box plots, violin plots, joint plots, and pair plots. An example of a specific visualization that is more suitable for Seaborn is a violin plot depicting the distribution of exam scores for different student groups.
+In Python, the primary library for working with regular expressions is the "re" module. This module provides functions and methods to create and apply regular expressions, search for patterns, extract matched portions, replace patterns, and more. It is a core part of Python's standard library, making it readily available for use in automation projects.
 
-Bokeh, unlike Matplotlib and Seaborn, is designed for interactive and browser-based visualizations. It emphasizes interactivity, responsiveness, and the ability to handle large and streaming datasets. Bokeh allows for creating interactive plots, dashboards, and data applications that can be viewed in web browsers. It provides powerful tools for linking multiple plots, creating interactive widgets, and adding tooltips or hover effects. An example of a specific visualization that is more suitable for Bokeh is an interactive scatter plot that displays additional information about data points when hovering over them.
+To use regular expressions in Python for searching specific patterns in a string, you typically follow these steps:
 
-In summary, Matplotlib is suitable for creating static, customizable plots, Seaborn excels in statistical visualizations with an emphasis on aesthetics, and Bokeh is ideal for interactive, browser-based visualizations. Understanding the differences and strengths of these libraries enables data scientists to choose the most appropriate tool based on the specific visualization requirements and desired interactivity level.
+1. Import the "re" module: Begin by importing the "re" module in your Python script or interactive session.
 
-## Main functions in the Seaborn library
+2. Create a regular expression pattern: Define a pattern using special characters and syntax that represents the specific pattern you want to match in the string.
 
-The topic of understanding the main functions in the Seaborn library for creating relational, categorical, and distribution plots is essential for data scientists studying data science. Seaborn provides a rich set of functions that simplify the creation of visually appealing and informative visualizations, aiding in the exploration and analysis of data.
+3. Apply the regular expression: Use the "re" module's functions or methods to apply the regular expression pattern to a string and perform the desired operation, such as searching, extracting, or replacing.
 
-1. Relational plots: Seaborn offers several functions to create relational plots that depict the relationship between two continuous variables. The main functions for relational plots in Seaborn include `scatterplot()`, `lineplot()`, and `relplot()`. These plots are useful for understanding patterns, trends, and correlations in the data. For example, a scatter plot created using `scatterplot()` can be used to visualize the relationship between a student's study time and their exam scores, allowing us to determine if there is a positive or negative correlation between the two variables.
+Here's an example that demonstrates searching for specific patterns using regular expressions in Python:
 
-2. Categorical plots: Seaborn provides functions for creating categorical plots, which are used to analyze the relationship between one categorical variable and one continuous or categorical variable. Key functions for categorical plots include `barplot()`, `boxplot()`, `violinplot()`, and `countplot()`. These plots help in understanding the distribution, comparison, and relationships within categorical data. For instance, a box plot created using `boxplot()` can be used to compare the distribution of salaries across different job titles, providing insights into the salary ranges and potential outliers for each category.
+```python
+import re
 
-3. Distribution plots: Seaborn includes functions for visualizing the distribution of a single variable. The primary functions for distribution plots are `histplot()`, `kdeplot()`, `rugplot()`, and `displot()`. These plots help in understanding the shape, central tendency, and spread of data. For example, a kernel density estimation (KDE) plot created using `kdeplot()` can be used to visualize the distribution of customer ages, allowing us to observe peaks, modes, or bimodal distributions within the data.
+text = "The quick brown fox jumps over the lazy dog."
 
-In summary, Seaborn offers a range of functions for creating relational plots (depicting relationships between continuous variables), categorical plots (analyzing relationships involving categorical variables), and distribution plots (visualizing the distribution of a single variable). Understanding the purpose and appropriate use cases for these plot types allows data scientists to effectively explore and communicate insights from their data.
+pattern = r"quick.*fox"
 
-## Seaborn Cheat Sheet
+match = re.search(pattern, text)
+if match:
+    print("Pattern found:", match.group())
+else:
+    print("Pattern not found.")
+```
 
-The topic of the Seaborn Cheat Sheet is important for Python developers studying data science as it provides a quick and handy reference for utilizing Seaborn's functionalities efficiently. The cheat sheet serves as a valuable resource for understanding and implementing various visualization techniques offered by the Seaborn library.
+Output:
 
-The Seaborn Cheat Sheet plays a crucial role in a Python developer's workflow by providing the following benefits:
+```python
+Pattern found: quick brown fox
+```
 
-1. Overview of functions: The cheat sheet presents an overview of the main functions available in Seaborn, categorizing them based on their purposes. This allows developers to quickly identify the appropriate function for a specific visualization task without having to search through extensive documentation or examples.
+In the example above, we define the regular expression pattern `quick.*fox`, which matches the substring "quick" followed by any characters (`.*`) and then the substring "fox." We use the `re.search()` function to search for this pattern in the given text. If a match is found, we print the matched portion using `match.group()`. Otherwise, we indicate that the pattern was not found.
 
-2. Visual representation: The cheat sheet includes visual examples of each plot type, showcasing their appearance and typical use cases. These visual representations help developers get a quick sense of what the plots look like and understand their potential applications.
+```python
+import re
 
-3. Function parameters: The cheat sheet highlights key parameters for each function, enabling developers to understand how to customize and fine-tune their visualizations. It provides information on common parameters such as data inputs, x and y variables, color palettes, and additional options for enhancing the plots. This quick reference allows developers to experiment and customize their plots efficiently.
+text = "Contact us at info@example.com or support@example.com for assistance."
 
-4. Tips and tricks: The cheat sheet often includes helpful tips and tricks for using Seaborn effectively. These tips can provide insights on how to address common challenges, handle specific data types, or improve the aesthetics of the plots. Such guidance enhances a developer's understanding and proficiency in utilizing Seaborn.
+pattern = r"\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}\b"
 
-Some key sections or elements featured in the Seaborn Cheat Sheet that can aid a developer in quickly referencing Seaborn functionalities include:
+matches = re.findall(pattern, text)
+print(matches)
+```
 
-- Categorical Plots: This section covers various categorical plot types such as bar plots, box plots, violin plots, and swarm plots. It highlights the specific function names and provides examples of how to create and customize these plots.
+Output:
 
-- Relational Plots: This section focuses on functions for visualizing relationships between continuous variables, such as scatter plots, line plots, and joint plots. It explains how to use these functions and showcases their visual outputs.
+```python
+['info@example.com', 'support@example.com']
+```
 
-- Distribution Plots: This section introduces distribution plots like histograms, kernel density plots, and rug plots. It illustrates the usage and customization options for these plots.
+In the above example, the regular expression pattern `\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}\b` matches email addresses based on common patterns. The `re.findall()` function is used to find all matches in the given string.
 
-- Colors and Palettes: The cheat sheet includes information about color-related aspects in Seaborn, including predefined color palettes, color codes, and how to customize color schemes in visualizations.
+The "re" module provides numerous functions and methods to work with regular expressions, such as `re.search()`, `re.match()`, `re.sub()`, and more. These functions allow you to search for patterns, match specific positions, replace matched patterns, and perform various text manipulation tasks.
 
-By leveraging the Seaborn Cheat Sheet, Python developers can save time and effort in their data visualization tasks. It serves as a concise and accessible resource that allows them to quickly access relevant Seaborn functionalities, understand their usage, and create visually appealing plots efficiently.
+By understanding regular expressions and utilizing the "re" module in Python, you can effectively search for specific patterns, extract relevant information, and perform data manipulation tasks in cryptographic operations, such as parsing cryptographic keys or validating input formats. Regular expressions serve as a powerful tool to enhance the capabilities of cryptographic applications and assist in data analysis and processing.
+
+## The "shutil" library in Python
+
+Studying automation in Python is highly valuable for individuals seeking to streamline workflows, increase productivity, and reduce manual effort. Python's extensive libraries and tools offer robust capabilities for automating various tasks, making it a popular choice for automation projects.
+
+The topic of automation in Python is essential because it enables developers to automate repetitive or complex tasks, saving time and reducing human error. By harnessing the power of automation, individuals can focus on higher-level problem-solving and innovation, rather than spending time on mundane and repetitive activities.
+
+The "shutil" library in Python, short for "shell utilities," plays a crucial role in file and directory management. It provides a range of high-level operations for tasks such as copying, moving, renaming, and deleting files and directories. This library abstracts away the complexities of file handling, allowing developers to perform these operations efficiently and reliably.
+
+A common use case for the "shutil" library is the creation of backups. Backing up important files or directories is crucial for data protection and disaster recovery. The "shutil" library simplifies this process by providing the `shutil.copytree()` function, which can recursively copy an entire directory tree from one location to another.
+
+Here's an example of using the "shutil" library to create a backup of a directory:
+
+```python
+import shutil
+
+def create_backup(source_dir, destination_dir):
+    shutil.copytree(source_dir, destination_dir)
+
+# Usage
+source_directory = "/path/to/source/directory"
+destination_directory = "/path/to/destination/directory"
+
+create_backup(source_directory, destination_directory)
+```
+
+In the above example, the `create_backup` function takes a source directory and a destination directory as parameters. It utilizes the `shutil.copytree()` function to recursively copy the entire directory tree from the source directory to the destination directory, effectively creating a backup.
+
+By leveraging the "shutil" library, developers can automate file and directory management tasks such as creating backups, moving files, or archiving data. This not only simplifies the process but also ensures accuracy and consistency in handling files and directories.
+
+Understanding and utilizing the "shutil" library in Python empowers individuals to automate file-related tasks effectively, leading to improved efficiency, data integrity, and streamlined workflows. It is a fundamental component of automation in Python and plays a significant role in various automation projects.
+
+## Automation in Python
+
+Studying automation in Python is highly relevant for individuals seeking to streamline processes, increase efficiency, and reduce manual effort in various domains. Python's robust libraries and tools provide powerful capabilities to automate tasks and workflows, enabling developers to create efficient and reliable automation solutions.
+
+One automation idea from the assigned material is the automated organization of files based on their names or attributes. This idea involves automatically categorizing and moving files to specific directories based on predefined patterns or criteria. Python's regular expressions and the shutil library can be used to implement this automation idea effectively.
+
+Regular expressions allow for pattern matching and extraction of specific information from strings. By defining regular expression patterns that match specific file names or attributes, we can identify files that meet certain criteria. The shutil library, on the other hand, provides high-level operations for file and directory management, such as moving files and creating directories.
+
+Here's an example implementation of this automation idea using Python's regular expressions and shutil libraries:
+
+```python
+import re
+import os
+import shutil
+
+def organize_files(source_dir, destination_dir):
+    # Create destination directories if they don't exist
+    if not os.path.exists(destination_dir):
+        os.makedirs(destination_dir)
+
+    # Get a list of files in the source directory
+    files = os.listdir(source_dir)
+
+    # Define regular expression patterns for file categorization
+    image_pattern = r".*\.(jpg|png|gif)"
+    document_pattern = r".*\.(pdf|docx|txt)"
+
+    for file in files:
+        file_path = os.path.join(source_dir, file)
+
+        # Match file name with regular expressions
+        if re.match(image_pattern, file, re.IGNORECASE):
+            # Move image file to the image directory
+            shutil.move(file_path, os.path.join(destination_dir, "Images"))
+
+        elif re.match(document_pattern, file, re.IGNORECASE):
+            # Move document file to the document directory
+            shutil.move(file_path, os.path.join(destination_dir, "Documents"))
+
+        else:
+            # Move the file to a general "Other" directory
+            shutil.move(file_path, os.path.join(destination_dir, "Other"))
+
+    print("Files organized successfully!")
+
+# Usage
+source_directory = "/path/to/source/directory"
+destination_directory = "/path/to/destination/directory"
+
+organize_files(source_directory, destination_directory)
+```
+
+In the above example, the `organize_files` function takes a source directory and a destination directory as parameters. It iterates through the files in the source directory, matches their names using regular expressions against predefined patterns for images and documents, and moves them to the respective destination directories using the shutil library's `shutil.move` function. Any files that do not match the predefined patterns are moved to a general "Other" directory.
+
+By combining regular expressions for pattern matching and the shutil library for file management, this automation idea enables efficient organization and categorization of files based on their names or attributes. This automation can be further extended by incorporating additional regular expressions and logic to handle different file types or attributes as required.
+
+Overall, the regular expressions and shutil libraries in Python provide a powerful combination for implementing file organization automation, allowing developers to save time and effort in managing and categorizing files automatically.
 
 ## Things I want to know more about
 
-[Move Class 15](./Class15.md) | [Previous](./Class13.md)
+[Move Class 20](./Class20.md) | [Previous](./Class18.md)
