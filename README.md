@@ -43,6 +43,7 @@ ___
 | Class 16     | [Class 16](./Class16.md) |
 | Class 17     | [Class 17](./Class17.md) |
 | Class 18     | [Class 18](./Class18.md) |
+| Class 19     | [Class 19](./Class19.md) |
 
 > **Note:** This main page will be updated accordingly.
 

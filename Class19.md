@@ -1,10 +1,10 @@
-# Read: Class 14
+# Read: Class 19
 
 ## Table of Contents
 
-- [Regular expressions in python](#Regular expressions in python)
-- [Main functions in the Seaborn library](#main-functions-in-the-seaborn-library)
-- [Seaborn Cheat Sheet](#seaborn-cheat-sheet)
+- [Regular expressions in python](#regular-expressions-in-python)
+- [The "shutil" library in Python](#the-shutil-library-in-python)
+- [Automation in Python](#automation-in-python)
 - [Things I want to know more about](#things-i-want-to-know-more-about)
 
 ## Regular expressions in python
