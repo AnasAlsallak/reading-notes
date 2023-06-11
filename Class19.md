@@ -161,4 +161,4 @@ Overall, the regular expressions and shutil libraries in Python provide a powerf
 
 ## Things I want to know more about
 
-[Move Class 20](./Class20.md) | [Previous](./Class18.md)
+[Move Class 26](./Class26.md) | [Previous](./Class18.md)
