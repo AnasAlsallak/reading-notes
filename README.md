@@ -46,6 +46,7 @@ ___
 | Class 19     | [Class 19](./Class19.md) |
 | Class 26 (Intro to Django)     | [Class 26](./Class26.md) |
 | Class 27 (Django Models)       | [Class 27](./Class27.md) |
+| Class 28 (Django CRUD and Forms)       | [Class 28](./Class28.md) |
 
 > **Note:** This main page will be updated accordingly.
 
