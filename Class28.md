@@ -40,7 +40,7 @@ By utilizing template inheritance, code reusability and maintainability are grea
 
 1. **Base Template**: A base template is created that contains the common elements shared across multiple pages, such as the header, footer, and navigation menu. This base template serves as a blueprint for other templates.
 
-2. **Child Templates**: Child templates extend the base template using the {% extends %} tag. They can override specific sections of the base template or add new content using the {% block %} tag. Child templates only need to define the sections that differ from the base template, reducing code duplication.
+2. **Child Templates**: Child templates extend the base template using the "{% extends %}" tag. They can override specific sections of the base template or add new content using the "{% block %}" tag. Child templates only need to define the sections that differ from the base template, reducing code duplication.
 
 3. **Code Reusability**: With template inheritance, common elements and layout are defined in a single place (the base template), reducing the need to repeat code across multiple templates. This improves code reusability and makes it easier to maintain and update the application.
 
