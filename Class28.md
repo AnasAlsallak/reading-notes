@@ -1,4 +1,4 @@
-# Readings: Django CRUD and Forms
+# Readings 28: Django CRUD and Forms
 
 ## Table of Contents
 

@@ -1,4 +1,4 @@
-# Readings: Django Models
+# Readings 27: Django Models
 
 ## Table of Contents
 

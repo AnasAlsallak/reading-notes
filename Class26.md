@@ -1,4 +1,4 @@
-# Readings: Intro to Django
+# Readings 26: Intro to Django
 
 ## Table of Contents
 
@@ -51,7 +51,7 @@ Overall, Django's open source nature relies on the support of its community and 
 
 Understanding the differences between CSS frameworks like Tailwind CSS and Bootstrap CSS is important for Django developers because it helps them make informed decisions when choosing a framework to style their web applications. The right CSS framework can enhance the development process, maintainability, and user experience of a Django application.
 
-The purpose of Tailwind CSS, as mentioned in the HubSpot article, is to provide a "utility-first CSS framework" that allows developers to build custom user interfaces quickly and efficiently. It focuses on offering low-level utility classes that can be combined to create unique designs without relying on pre-designed components (source: https://blog.hubspot.com/website/what-is-tailwind-css).
+The purpose of Tailwind CSS, as mentioned in the HubSpot article, is to provide a "utility-first CSS framework" that allows developers to build custom user interfaces quickly and efficiently. It focuses on offering low-level utility classes that can be combined to create unique designs without relying on pre-designed components (source: <https://blog.hubspot.com/website/what-is-tailwind-css>).
 
 In contrast, Bootstrap CSS is a popular CSS framework that provides a set of pre-designed components, such as buttons, forms, and navigation elements, which developers can use to build responsive web applications. Bootstrap aims to simplify the development process by offering a consistent and ready-to-use set of components that follow a specific design language.
 
@@ -73,7 +73,7 @@ The main differences between Tailwind CSS and Bootstrap are:
 
 2. Customization: Tailwind CSS is highly customizable, allowing developers to modify their designs and prefer a utility-first approach, while Bootstrap is the default configuration to match their project's design requirements. Bootstrap also offers customization options, but it may require more custom CSS ideal for those who want to achieve a unique design.
 
-3. Learning curve: Tailwind CSS may have a steeper learning curve for developers who are new to the utility-first approach to use pre-designed components and follow a specific design language (source: https://blog.hubspot.com/website/what-is-tailwind-css). Bootstrap, with its pre-designed components, might be easier to pick up for beginners.
+3. Learning curve: Tailwind CSS may have a steeper learning curve for developers who are new to the utility-first approach to use pre-designed components and follow a specific design language (source: <https://blog.hubspot.com/website/what-is-tailwind-css>). Bootstrap, with its pre-designed components, might be easier to pick up for beginners.
 
 4. Community and ecosystem: Both Tailwind CSS and Bootstrap have.hubspot.com/website/ active communities and ecosystems. However, Bootstrap has been around longer and has a more extensive collection of themes, plugins, and resources.
 
