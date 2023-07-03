@@ -74,4 +74,4 @@ Here are the answers to your specific questions:
 
 Get more in-depth into hashtables.
 
-[Move Class 311](./Class31.md) | [Previous](./Class29.md)
+[Move Class 31](./Class31.md) | [Previous](./Class29.md)
