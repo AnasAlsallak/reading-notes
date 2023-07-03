@@ -49,6 +49,7 @@ ___
 | Class 28 (Django CRUD and Forms)       | [Class 28](./Class28.md) |
 | Class 29 (Django Custom User)       | [Class 29](./Class29.md) |
 | Class 30 (Implementation: Hash Tables)       | [Class 30](./Class30.md) |
+| Class 31 (Django REST Framework & Docker)       | [Class 31](./Class31.md) |
 
 > **Note:** This main page will be updated accordingly.
 
