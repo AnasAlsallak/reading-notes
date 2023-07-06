@@ -1,4 +1,4 @@
-# Readings 32: Authentication & Production Server
+# Readings 33: Authentication & Production Server
 
 ## Table of Contents
 
@@ -79,4 +79,4 @@ Remember, in a production environment, it's also recommended to use a reverse pr
 
 Get more in-depth into JWT, Ddjango app deployment.
 
-[Move Class 33](./Class33.md) | [Previous](./Class31.md)
+[Move Class 34](./Class34.md) | [Previous](./Class32.md)
