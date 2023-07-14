@@ -50,8 +50,9 @@ ___
 | Class 29 (Django Custom User)       | [Class 29](./Class29.md) |
 | Class 30 (Implementation: Hash Tables)       | [Class 30](./Class30.md) |
 | Class 31 (Django REST Framework & Docker)       | [Class 31](./Class31.md) |
-| Class 32 (Permissions & Postgresql)       | [Class 32](./Class32.md) |
+| Class 32 (Permissions & PostgreSQL)       | [Class 32](./Class32.md) |
 | Class 33 (Authentication & Production Server)       | [Class 33](./Class33.md) |
+| Class 34 (API Deployment)       | [Class 34](./Class34.md) |
 
 > **Note:** This main page will be updated accordingly.
 
