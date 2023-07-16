@@ -52,4 +52,4 @@ Gayle McDowell emphasizes the importance of deliberate practice, continuous lear
 
 4. Technical Interview Skills: Learn about effective communication during technical interviews, how to approach problem-solving questions, handling pressure, and demonstrating your problem-solving abilities clearly and effectively.
 
-[Move Class 37](./Class37.md) | [Previous](./Class36.md)
+[Move Class 37](./Class37.md) | [Previous](./Class35.md)
