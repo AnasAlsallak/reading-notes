@@ -64,4 +64,4 @@ Source: [White Noise Documentation](https://whitenoise.readthedocs.io/en/stable/
 
 Get more in-depth into JWT, Django app deployment.
 
-[Move Class 34](./Class35.md) | [Previous](./Class33.md)
+[Move Class 35](./Class35.md) | [Previous](./Class33.md)

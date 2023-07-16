@@ -53,6 +53,7 @@ ___
 | Class 32 (Permissions & PostgreSQL)       | [Class 32](./Class32.md) |
 | Class 33 (Authentication & Production Server)       | [Class 33](./Class33.md) |
 | Class 34 (API Deployment)       | [Class 34](./Class34.md) |
+| Class 35 (Graphs)       | [Class 35](./Class35.md) |
 
 > **Note:** This main page will be updated accordingly.
 
