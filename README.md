@@ -54,6 +54,7 @@ ___
 | Class 33 (Authentication & Production Server)       | [Class 33](./Class33.md) |
 | Class 34 (API Deployment)       | [Class 34](./Class34.md) |
 | Class 35 (Graphs)       | [Class 35](./Class35.md) |
+| Class 36 (DSA Review)       | [Class 36](./Class36.md) |
 
 > **Note:** This main page will be updated accordingly.
 

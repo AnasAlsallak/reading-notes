@@ -69,8 +69,7 @@ How? Starting from the root node, we enqueue it, mark it as visited, and then it
     - Adjacency List: A collection of linked lists or arrays representing connections between vertices.
 
 8. Diagram: Visualization of a Graph
-    [Insert a visual diagram of a graph with labeled nodes and edges.]
-
+    ![undirected graph](assets/undirectedgraph.png)
 9. Anthropomorphized Conversation: Graph Concepts Talk
 
 <details>
