@@ -55,6 +55,7 @@ ___
 | Class 34 (API Deployment)       | [Class 34](./Class34.md) |
 | Class 35 (Graphs)       | [Class 35](./Class35.md) |
 | Class 36 (DSA Review)       | [Class 36](./Class36.md) |
+| Class 37 (React 1)       | [Class 37](./Class37.md) |
 
 > **Note:** This main page will be updated accordingly.
 

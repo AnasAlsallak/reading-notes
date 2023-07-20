@@ -1,5 +1,12 @@
 # Readings 36: DSA Review
 
+## Table of Contents
+
+- [Whiteboard Advice](#whiteboard-advice)
+- [Improve performance during a whiteboard interview](#improve-performance-during-a-whiteboard-interview)
+- [Gayle McDowell's advice for engineering interviews](#gayle-mcdowells-advice-for-engineering-interviews)
+- [Things I want to know more about](#things-i-want-to-know-more-about)
+
 ## Whiteboard Advice
 
 key pieces of advice mentioned in the "Whiteboard Advice" reading assignment for successfully tackling whiteboard interviews:
