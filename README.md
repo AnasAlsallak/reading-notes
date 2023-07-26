@@ -57,6 +57,7 @@ ___
 | Class 36 (DSA Review)       | [Class 36](./Class36.md) |
 | Class 37 (React 1)       | [Class 37](./Class37.md) |
 | Class 38 (React 2)       | [Class 38](./Class38.md) |
+| Class 39 (React 3)       | [Class 39](./Class39.md) |
 
 > **Note:** This main page will be updated accordingly.
 

@@ -1,4 +1,4 @@
-# Readings 38: React 1
+# Readings 38: React 2
 
 ## Table of Contents
 
@@ -128,4 +128,4 @@ In the context of software development, composition vs inheritance is similar to
 
 All the above.
 
-[Move Class 39](./Class39.md) | [Previous](./Class39.md)
+[Move Class 39](./Class39.md) | [Previous](./Class37.md)
