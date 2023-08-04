@@ -81,4 +81,4 @@ In summary, Next.js simplifies static file serving by providing a default "publi
 
 All the above.
 
-[Previous](./Class39.md)
+[Move to Class 42](./Class42.md) | [Previous](./Class39.md)
